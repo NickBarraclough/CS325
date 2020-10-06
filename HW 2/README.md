@@ -1,3 +1,4 @@
+# Program Instructions
 mergeSort3.py is run via the command ~$ python3 mergeSort3.py
 - data.txt file must be present in the working directory 
 	- data.txt must be formatted correctly, with the first integer in each
