@@ -1,5 +1,6 @@
 # CS325
 CS325 - Analysis of Algorithms
+Instructor: Julianne Schutfort (schutfoj@engr.oregonstate.edu)
 
 # Course Content:
   Analyzing algorithms for correctness and running time.
